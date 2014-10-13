@@ -7,6 +7,5 @@ public class TargetComponent extends JComponent {
         Graphics2D g2 = (Graphics2D) g;
         Target target1 = new Target(50,50);
         target1.draw(g2);
-        
     }
 }
